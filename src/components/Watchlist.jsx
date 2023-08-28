@@ -20,3 +20,4 @@ const Watchlist = ({ list, removeMovie }) => {
 };
 
 export default Watchlist;
+
